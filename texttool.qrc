@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/align-center.png</file>
+    </qresource>
+</RCC>
